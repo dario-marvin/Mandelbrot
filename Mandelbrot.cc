@@ -25,7 +25,7 @@ int mandelbrot(double real, double imag) {
 int main() {
 	
 	int width = 212; //number of characters fitting horizontally on my screen 
-	int heigth = 63; //number of characters vertically horizontally on my screen
+	int heigth = 63; //number of characters fitting vertically on my screen
 		
 	double x_start = -2.0;
 	double x_fin = 1.0;
