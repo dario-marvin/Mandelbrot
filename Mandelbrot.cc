@@ -13,9 +13,9 @@ int mandelbrot(double real, double imag) {
 	for (int i = 0; i < Limit; ++i) {
 		double r2 = zReal * zReal;
 		double i2 = zImag * zImag;
-		if (r2 + i2 > 4.0) {
-				return i;
-		}
+		
+		if (r2 + i2 > 4.0) return i;
+
 		zImag = 2.0 * zReal * zImag + imag;
 		zReal = r2 - i2 + real;
 	}
@@ -42,11 +42,9 @@ int main() {
 	//~ double y_start = -0.91;
 	//~ double y_fin = -0.88;
 	
-	double dx = (double) (x_fin - x_start)/(width-1);
-	double dy = (double) (y_fin - y_start)/(heigth-1);
+	double dx = (x_fin - x_start)/(width - 1);
+	double dy = (y_fin - y_start)/(heigth - 1);
 
-	//~ string char_ = "\u26AB";
-	//~ string char_ = "\u25FE";
 	string char_ = "\u2588";
 
 	string black = "\033[22;30m";
