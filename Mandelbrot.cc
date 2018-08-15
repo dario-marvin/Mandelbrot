@@ -6,11 +6,11 @@
 using namespace std;
 
 int mandelbrot(double real, double imag) {
-	int Limit = 100;
+	int limit = 100;
 	double zReal = real;
 	double zImag = imag;
 
-	for (int i = 0; i < Limit; ++i) {
+	for (int i = 0; i < limit; ++i) {
 		double r2 = zReal * zReal;
 		double i2 = zImag * zImag;
 		
@@ -19,7 +19,7 @@ int mandelbrot(double real, double imag) {
 		zImag = 2.0 * zReal * zImag + imag;
 		zReal = r2 - i2 + real;
 	}
-	return Limit;
+	return limit;
 }
 
 int main() {
