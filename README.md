@@ -7,5 +7,5 @@ Thus we iterate z[n] a fixed number of times and register at what iteration the 
 Every character space of the Ubuntu console is treated as a pixel and colored according to the loop exiting value.
 
 <p align="center">
-  <img width="732" height="410" src="https://github.com/dario-marvin/MasterMind/blob/master/MM5.png">
+  <img width="732" height="410" src="https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot1.png">
 </p>
