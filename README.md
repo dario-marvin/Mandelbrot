@@ -7,11 +7,11 @@ Thus we iterate z[n] a fixed number of times and register at what iteration the 
 Every character space of the Ubuntu console is treated as a pixel and colored according to the loop exiting value.
 
 <p align="center">
-  <img width="732" height="410" src="https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot1.png">
+  <img width="1024" height="576" src="https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot1.png">
 </p>
 <p align="center">
-  <img width="732" height="410" src="https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot2.png">
+  <img width="1024" height="576" src="https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot2.png">
 </p>
 <p align="center">
-  <img width="732" height="410" src="https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot3.png">
+  <img width="1024" height="576" src="https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot3.png">
 </p>
