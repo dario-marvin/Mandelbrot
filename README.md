@@ -24,5 +24,8 @@ Every character space of the Ubuntu console is treated as a point in the complex
 Save the source code file [`Mandelbrot.cc`](https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot.cc) in a folder on your computer. Open a terminal and navigate to you folder with the command `cd`, then run the commands
 ```
 g++ Mandelbrot.cc -std=c++0x -o Mandelbrot
+```
+and
+```
 ./Mandelbrot
 ```
