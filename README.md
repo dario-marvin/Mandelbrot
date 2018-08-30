@@ -6,7 +6,7 @@ A point c in the complex plane is said to belong to the Mandelbrot set if the se
 
 Thus we iterate z[n] a fixed number of times and register at what iteration the value of z[n] exceeded a specific threshold, if that does happen at all. 
 
-Every character space of the Ubuntu console is treated as a pixel and colored according to the loop exiting value.
+Every character space of the Ubuntu console is treated as a point in the complex space and colored according to the loop exiting value.
 
 ### Results
 
