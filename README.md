@@ -2,11 +2,7 @@
 
 ### Introduction
 
-A point ![equation](http://latex.codecogs.com/gif.latex?c) in the complex plane is said to belong to the Mandelbrot set if the sequence 
-
-![equation](http://latex.codecogs.com/gif.latex?z_{n+1}%3Dz_n^2+c) 
-
-does not diverge when iterated from starting point ![equation](http://latex.codecogs.com/gif.latex?z_0%3D[0,0]) .
+A point ![equation](http://latex.codecogs.com/gif.latex?c) in the complex plane is said to belong to the Mandelbrot set if the sequence ![equation](http://latex.codecogs.com/gif.latex?z_{n+1}%3Dz_n^2+c) does not diverge when iterated from starting point ![equation](http://latex.codecogs.com/gif.latex?z_0%3D[0,0]) .
 
 Thus we iterate ![equation](http://latex.codecogs.com/gif.latex?z_n) a fixed number of times and register at what iteration the value of ![equation](http://latex.codecogs.com/gif.latex?z_n) exceeded a specific threshold, if that does happen at all. 
 
