@@ -27,20 +27,20 @@ int main() {
 	int width = 379; //number of characters fitting horizontally on my screen 
 	int heigth = 98; //number of characters fitting vertically on my screen
 		
-	//~ double x_start = -2.0;
-	//~ double x_fin = 1.0;
-	//~ double y_start = -1.0;
-	//~ double y_fin = 1.0;
+	double x_start = -2.0;
+	double x_fin = 1.0;
+	double y_start = -1.0;
+	double y_fin = 1.0;
 	
 	//~ double x_start = -0.25;
 	//~ double x_fin = 0.05;
 	//~ double y_start = -0.95;
 	//~ double y_fin = -0.75;
 	
-	double x_start = -0.13;
-	double x_fin = -0.085;
-	double y_start = -0.91;
-	double y_fin = -0.88;
+	//~ double x_start = -0.13;
+	//~ double x_fin = -0.085;
+	//~ double y_start = -0.91;
+	//~ double y_fin = -0.88;
 	
 	double dx = (x_fin - x_start)/(width - 1);
 	double dy = (y_fin - y_start)/(heigth - 1);
