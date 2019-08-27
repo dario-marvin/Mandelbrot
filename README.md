@@ -11,13 +11,19 @@ Every character space of the Ubuntu console is treated as a point in the complex
 ### Results
 
 <p align="center">
-  <img width="1024" height="576" src="https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot1.png">
+  <img width="1024" height="576" src="https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot1_.png">
 </p>
 <p align="center">
-  <img width="1024" height="576" src="https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot2.png">
+  <img width="1024" height="576" src="https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot2_.png">
 </p>
 <p align="center">
-  <img width="1024" height="576" src="https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot3.png">
+  <img width="1024" height="576" src="https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot3_.png">
+</p>
+
+### Animation
+
+<p align="center">
+  <img width="1024" height="576" src="https://github.com/dario-marvin/Mandelbrot/blob/master/Mandelbrot.gif">
 </p>
 
 ### How to compile and execute the code
